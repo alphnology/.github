@@ -4,11 +4,12 @@
   <a href="https://alphnology.com/" >
     <img align="center" src="https://github.com/alphnology/alphnology.github.io/blob/main/assets/github/alphnology-logo.png" alt="Alphnology" height="240" width="240" />
   </a>
+   <h2 align="center">Alphnology</h2>
 </p>
 
 ### We offer solutions to grow your business.
 
-We are a team of talented professionals in the development of solutions that meet the needs of business.
+<!--We are a team of talented professionals in the development of solutions that meet the needs of business.-->
 
 - ❤️ Technology 💻
 -  ℹ️ More information [Alphnology](https://alphnology.com)
