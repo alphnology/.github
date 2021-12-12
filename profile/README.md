@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://alphnology.com/" >
-    <img align="center" src="https://github.com/alphnology/alphnology.github.io/blob/main/assets/github/alphnology-logo.png" alt="Alphnology" height="240" width="240" />
+    <img align="center" src="https://github.com/alphnology/.github/blob/main/profile/assets/alphnology-logo.png" alt="Alphnology" height="240" width="240" />
   </a>
    <h2 align="center">Alphnology</h2>
 </p>
@@ -20,16 +20,16 @@
 <p align="left">
 
   <a href="https://twitter.com/alphnology" >
-    <img align="center" src="https://github.com/alphnology/alphnology.github.io/blob/main/assets/github/twitter.png" alt="Alphnology" height="52" width="62" />
+    <img align="center" src="https://github.com/alphnology/.github/blob/main/profile/assets/twitter.png" alt="Alphnology" height="52" width="62" />
   </a>
   <a href="https://www.linkedin.com/in/alphnology">
-    <img align="center" src="https://github.com/alphnology/alphnology.github.io/blob/main/assets/github/linkedIn.png" alt="Alphnology" height="60" width="60" />
+    <img align="center" src="https://github.com/alphnology/.github/blob/main/profile/assets/linkedIn.png" alt="Alphnology" height="60" width="60" />
   </a>
   <a href="https://www.instagram.com/alphnology/">
-    <img align="center" src="https://github.com/alphnology/alphnology.github.io/blob/main/assets/github/instagram.png" alt="Alphnology" height="60" width="60" />
+    <img align="center" src="https://github.com/alphnology/.github/blob/main/profile/assets/instagram.png" alt="Alphnology" height="60" width="60" />
  </a>
  <a href="https://web.facebook.com/Alphnology/">
-    <img align="center" src="https://github.com/alphnology/alphnology.github.io/blob/main/assets/github/facebook.png" alt="Alphnology" height="60" width="60" />
+    <img align="center" src="https://github.com/alphnology/.github/blob/main/profile/assets/facebook.png" alt="Alphnology" height="60" width="60" />
  </a>
 </p>
 
