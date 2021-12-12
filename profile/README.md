@@ -20,16 +20,16 @@
 <p align="left">
 
   <a href="https://twitter.com/alphnology" >
-    <img align="center" src="https://github.com/alphnology/.github/blob/main/profile/assets/twitter.png" alt="Alphnology" height="52" width="62" />
+    <img align="center" src="https://github.com/alphnology/.github/blob/main/profile/assets/twitter.png" alt="Alphnology" height="50" width="50" />
   </a>
   <a href="https://www.linkedin.com/in/alphnology">
-    <img align="center" src="https://github.com/alphnology/.github/blob/main/profile/assets/linkedIn.png" alt="Alphnology" height="60" width="60" />
+    <img align="center" src="https://github.com/alphnology/.github/blob/main/profile/assets/linkedIn.png" alt="Alphnology" height="50" width="50" />
   </a>
   <a href="https://www.instagram.com/alphnology/">
-    <img align="center" src="https://github.com/alphnology/.github/blob/main/profile/assets/instagram.png" alt="Alphnology" height="60" width="60" />
+    <img align="center" src="https://github.com/alphnology/.github/blob/main/profile/assets/instagram.png" alt="Alphnology" height="50" width="50" />
  </a>
  <a href="https://web.facebook.com/Alphnology/">
-    <img align="center" src="https://github.com/alphnology/.github/blob/main/profile/assets/facebook.png" alt="Alphnology" height="60" width="60" />
+    <img align="center" src="https://github.com/alphnology/.github/blob/main/profile/assets/facebook.png" alt="Alphnology" height="50" width="50" />
  </a>
 </p>
 
