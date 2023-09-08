@@ -31,6 +31,9 @@
  <a href="https://web.facebook.com/Alphnology/">
     <img align="center" src="https://github.com/alphnology/.github/blob/main/profile/assets/facebook.png" alt="Alphnology" height="50" width="50" />
  </a>
+  <a href="https://linktr.ee/alphnology">
+    <img align="center" src="https://github.com/alphnology/.github/blob/main/profile/assets/linktr.png" alt="Alphnology" height="50" width="50""/>
+ </a>
 </p>
 
 
